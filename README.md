@@ -1,12 +1,30 @@
-# React + Vite
+<div align="center">
+  <br />
+    <a href="https://www.youtube.com/watch?v=dCLhUialKPQ" target="_blank">
+      <img src="public/readme/hero.png" alt="Project Banner">
+    </a>
+  <br />
+  
+  <div>
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <h3 align="center">A Movie Application</h3>
 
-Currently, two official plugins are available:
+## <a name="features">🔋 Features</a>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 **Browse All Movies**: Explore a wide range of movies available on the platform.
 
-## Expanding the ESLint configuration
+👉 **Search Movies**: Easily search for specific movies using a search function.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 **Trending Movies Algorithm**: Displays trending movies based on a dynamic algorithm.
+
+👉 **Modern UI/UX**: A sleek and user-friendly interface designed for a great experience.
+
+👉 **Responsiveness**: Fully responsive design that works seamlessly across devices.
+
+and many more, including code architecture and reusability
+
+</div>
